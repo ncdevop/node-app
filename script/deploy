@@ -1,5 +1,5 @@
 #!/bin/sh
-ssh ec2-user@52.15.137.29 <<EOF
+ssh ec2-user@app.regnar.org <<EOF
  cd ~/medium.com_HowToSetUpCICDpipelineForNodeJsAppwithJenkins/node-app
  git reset --hard
  git pull
