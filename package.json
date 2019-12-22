@@ -1,7 +1,7 @@
 {
    "name": "node-app",
    "description": "hello jenkins test app",
-   "version": "0.0.400",
+   "version": "0.0.401",
    "private": true,
    "dependencies": {
       "express": "3.12.0"
